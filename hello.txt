@@ -1,6 +1,5 @@
 Hello, world!
-<<<<<<< HEAD
+
 Alex Chiu!
-=======
 Rachel
->>>>>>> 818087be5d81c59b9ca4be07af5cd917755f73da
+
