@@ -1,9 +1,13 @@
 Hello, world!
-<<<<<<< HEAD
+
 
 Angela Pak
 
 Rachel
+
+
+Alex Chiu!
+
 
 
 Alex Chiu!
